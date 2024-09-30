@@ -1,0 +1,24 @@
+{
+  "name": "github_topics_issuses_scrapper",
+  "version": "1.0.0",
+  "description": "Github_Scrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GauravSharma847/Github_Topics_Issues_Scrapper.git"
+  },
+  "author": "Gaurav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GauravSharma847/Github_Topics_Issues_Scrapper/issues"
+  },
+  "homepage": "https://github.com/GauravSharma847/Github_Topics_Issues_Scrapper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "pdfkit": "^0.15.0",
+    "request": "^2.88.2"
+  }
+}
