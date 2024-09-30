@@ -1,0 +1,1 @@
+This project goes to the topic section of github , there it selects the top three topics and gets all the issues from those pages and locally it creates 3 directories of those topic names and inside those directories it creates pdf files with all the issues in that topic.
