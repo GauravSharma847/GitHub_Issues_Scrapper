@@ -1,1 +1,1 @@
-The EPharmacy web application provides a convenient and secure way to order medications and healthcare products online. Users can easily browse, purchase prescriptions, and access over-the-counter drugs from certified pharmacies. With features like secure transactions, fast delivery, and 24/7 support, the app aims to make healthcare more accessible and efficient from the comfort of your home.
+
